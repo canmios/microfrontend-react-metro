@@ -38,7 +38,6 @@ Application
 
 # Vite
 
-----------
 ### Fast Development Server
 Instant Server Start: Vite leverages native ES modules in the browser to serve files directly, which eliminates 
 the need for a bundling step during development. This results in extremely fast server start times.
